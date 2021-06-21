@@ -1,0 +1,14 @@
+{
+  "name": "gitpackage",
+  "version": "1.0.0",
+  "description": "Git package 101",
+  "main": "secure.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rs1621"
+  }
+}
